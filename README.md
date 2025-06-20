@@ -1,7 +1,7 @@
-<h1 align="center">Hey, sono Choaib 👋</h1>
+<h1 align="center">Hey,I'm Choaib 👋</h1>
 
 <p align="center">
-  🚀 Sviluppatore Software | 🎨 UX/UI Designer | 🎧 Music Producer <br>
+  🚀 Software Developer | 🎨 UX/UI Designer | 🎧 Music Producer <br>
   <i>"Find your self and wait your turn. <br> Night doesn’t last forever."</i>
 </p>
 

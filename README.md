@@ -37,17 +37,12 @@
   <tr>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code" /><br>VS Code</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" alt="IntelliJ" /><br>IntelliJ</td>
-    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Eclipse_Logo.svg" width="48" alt="Eclipse" /><br>Eclipse</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" alt="Unity" /><br>Unity</td>
-    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo.svg" width="48" alt="LaTeX" /><br>LaTeX</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" alt="Figma" /><br>Figma</td>
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="48" alt="Sketch" /><br>Sketch</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" alt="Trello" /><br>Trello</td>
     <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="48" alt="Notion" /><br>Notion</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/FL_Studio_Logo.svg" width="48" alt="FL Studio" /><br>FL Studio</td>
-    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="48" alt="Logic Pro" /><br>Logic Pro</td>
+     <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="48" alt="Logic Pro" /><br>Logic Pro</td>
   </tr>
 </table>
 

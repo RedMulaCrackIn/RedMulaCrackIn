@@ -19,6 +19,12 @@
 
 ---
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Passionate+Developer;UX+%2F+UI+Explorer;Code+%2B+Creativity+%3D+❤️;Let's+build+something+amazing!" alt="Typing SVG" />
+</h3>
+
+---
+
 ## 🧰 Stack Skills
 
 <table>
@@ -35,7 +41,7 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" alt="Flask" /><br>Flask</td>
   </tr>
   <tr>
-     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" alt="Android Studio" /><br>Android Studio</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" alt="Android Studio" /><br>Android Studio</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" alt="Flutter" /><br>Flutter</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code" /><br>VS Code</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" alt="IntelliJ" /><br>IntelliJ</td>
@@ -44,25 +50,26 @@
     <td align="center" width="100"><img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="48" alt="Sketch" /><br>Sketch</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" alt="Trello" /><br>Trello</td>
     <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="48" alt="Notion" /><br>Notion</td>
-     <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="48" alt="Logic Pro" /><br>Logic Pro</td>
+    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="48" alt="Logic Pro" /><br>Logic Pro</td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=choaibgoumri&style=flat-square&color=blue" alt="Profile Views" />
-</p>
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choaibgoumri&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RedMulaCrackIn&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choaibgoumri&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedMulaCrackIn&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choaibgoumri&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://komarev.com/ghpvc/?username=choaibgoumri&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -72,7 +79,3 @@
 - 🌍 [Portfolio Website](https://www.choaibgoumri.online)
 - 💼 [LinkedIn](https://www.linkedin.com/in/choaib-goumri/)
 - 📫 choaibgoumri.info@gmail.com
-
----
-
-

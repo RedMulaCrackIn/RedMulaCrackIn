@@ -46,6 +46,9 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=choaibgoumri&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -70,6 +73,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=choaibgoumri&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+

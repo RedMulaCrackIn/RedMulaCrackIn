@@ -35,6 +35,8 @@
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" alt="Flask" /><br>Flask</td>
   </tr>
   <tr>
+     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" alt="Android Studio" /><br>Android Studio</td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" alt="Flutter" /><br>Flutter</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code" /><br>VS Code</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" alt="IntelliJ" /><br>IntelliJ</td>
     <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" alt="Unity" /><br>Unity</td>

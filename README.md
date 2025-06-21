@@ -19,7 +19,7 @@
 
 ---
 
-## 🧰 My Tech Stack
+## 🧰 Stack Skills
 
 <table>
   <tr>

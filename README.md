@@ -20,7 +20,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Passionate+Developer;UX+%2F+UI+Explorer;Code+%2B+Creativity+%3D+❤️;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BB86FC&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing!" alt="Typing SVG" />
 </h3>
 
 ---
